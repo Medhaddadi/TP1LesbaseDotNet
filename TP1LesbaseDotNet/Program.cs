@@ -14,7 +14,7 @@ namespace TP1LesbaseDotNet
             Dichotomie dichotomie = new Dichotomie();
             dichotomie.solveDichotomie(-1000, 1000, 1 * Math.Exp(-15));
           /*  dichotomie.solveDichotomie(-2.5, 2,-0.25); */
-            Console.WriteLine("hi");
+           
             dichotomie.afficher(); 
                 
         }
